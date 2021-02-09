@@ -1,0 +1,2 @@
+# shinta-lestari
+Latihan2
